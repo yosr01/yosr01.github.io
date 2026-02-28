@@ -68,7 +68,7 @@ nav {
     text-align: center;
 
     /* 👇 BACKGROUND IMAGE */
-    background-image: url("_DSC3117.jpg");
+    background-image: url("images/olympia1.jpg");
     background-size: cover;       /* makes it fill the section */
     background-position: center;  /* keeps it centered */
     background-repeat: no-repeat;
